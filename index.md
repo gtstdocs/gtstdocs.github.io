@@ -38,7 +38,7 @@ __请勿将技术用于非法操作，本网站同网易大神不承担法律责
 __请遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)协议__<br />
 __此网站由[GitHub](https://github.com)托管。__
 ## 1.2 建言处
-我们的邮箱`[gtst@tuta.io](mailto:gtst@tuta.io)`<br /><br />
+我们的邮箱 [gtst@tuta.io](mailto:gtst@tuta.io)<br /><br />
 任何人可以建言！<br />
 如果这对我们有帮助，我们将会更新此网站，您将成为作者之一！
 # 2 正文
